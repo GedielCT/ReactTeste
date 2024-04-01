@@ -1,4 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-ReactDOM.render(<h1>React</h1>, document.getElementById("root"))
+const elemento = <h1>Teste</h1>
+ReactDOM.render(elemento, document.getElementById('root'))
