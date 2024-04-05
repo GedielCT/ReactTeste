@@ -1,3 +1,5 @@
+import React from "react"
+
 export default function() {
-    return "Teste"
+    return <h1>Teste 2</h1>
 }
