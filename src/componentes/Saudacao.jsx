@@ -7,6 +7,11 @@ export default class Saudacao extends Component{
         Nome: this.props.Nome
     }
 
+    constructor(props){
+        super(props)
+        this
+    }
+
     setTipo(e){
         this.setState({Tipo: e.target.value})
     }
