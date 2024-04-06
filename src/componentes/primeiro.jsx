@@ -1,5 +1,5 @@
 import React from "react"
 
 export default function() {
-    return <h1>Teste 2</h1>
+    return <h1>Lindo Dia!!</h1>
 }
